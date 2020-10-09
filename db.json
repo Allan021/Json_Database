@@ -1,0 +1,58 @@
+{
+"usuarios" :  [
+    {
+        "id" : 1,
+        "name":"Allan",
+    "apellido":"Aceituno",
+    "edad": 19,
+    "username":"AllanProz15",
+    "direccion": {
+        "ciudad":"El progreso Yoro",
+        "barrio": "emanuel"
+    },
+    "email":"allanCastro@gmail.com"
+    },
+    
+    {
+        "id" : 2,
+        "name":"Angie",
+    "apellido":"Ramos",
+    "edad": 18,
+    "username":"RamosAngie15",
+    "direccion": {
+        "ciudad":"El progreso Yoro",
+        "barrio": "La Carcamo"
+    },
+    "email":"AngieRamos@gmail.com"
+    },
+
+    {
+        "id" : 3,
+        "name":"Paola",
+    "apellido":"Diaz",
+    "edad": 19,
+    "username":"Paola121",
+    "direccion": {
+        "ciudad":"Tela",
+        "barrio": "SuperbA"
+    },
+    "email":"PaolaDiaz@gmail.com"
+    },
+
+    {
+        "id" : 4,
+        "name":"Digna Rebeca",
+    "apellido":"Garcia",
+    "edad": 57,
+    "username":"Rebeca123",
+    "direccion": {
+        "ciudad":"Tela",
+        "barrio": "SuperbA"
+    },
+    "email":"DignaRebeca@gmail.com"
+    }
+
+    
+    ]
+
+}
